@@ -83,6 +83,23 @@
                 <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="70, 50, 150, 60" />
                 <Label Text="Основное содержание текста" FontSize="Medium" AbsoluteLayout.LayoutBounds="30, 110, AutoSize, AutoSize" />
             </AbsoluteLayout>
+
+            <RelativeLayout>
+                <BoxView Color="Red" RelativeLayout.XConstraint = "0" WidthRequest="100" HeightRequest="100" />
+
+                <BoxView Color="Green" WidthRequest="100" HeightRequest="100"
+             RelativeLayout.XConstraint = "{ConstraintExpression Type=RelativeToParent, 
+             Property=Width, Factor=0.33, Constant=0}"
+              RelativeLayout.YConstraint = "{ConstraintExpression Type=RelativeToParent, 
+              Property=Height, Factor=0.5, Constant=0}"/>
+
+                <BoxView Color="Blue"
+             RelativeLayout.XConstraint = "{ConstraintExpression Type=RelativeToParent, 
+             Property=Width, Factor=1, Constant=-150}"
+              RelativeLayout.YConstraint = "{ConstraintExpression Type=RelativeToParent, 
+              Property=Height, Factor=1, Constant=-100}"
+            RelativeLayout.WidthConstraint = "150" RelativeLayout.HeightConstraint = "100"/>
+            </RelativeLayout>
         </StackLayout>
     </ScrollView>
 

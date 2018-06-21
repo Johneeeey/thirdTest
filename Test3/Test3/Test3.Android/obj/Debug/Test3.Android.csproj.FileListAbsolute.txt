@@ -398,6 +398,7 @@ D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.pdb
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
