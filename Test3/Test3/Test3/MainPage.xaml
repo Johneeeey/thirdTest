@@ -77,6 +77,7 @@
             <Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" TextColor="{local:color Alpha=255, Red=0, Green=89, Blue=25}" BackgroundColor="{local:color Alpha=255, Red=128, Green=203, Blue=196}"/>
 
             <Button Text="olololo"/>
+            <Button Text="olololo"/>
 
             <AbsoluteLayout>
                 <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="70, 50, 150, 60" />
