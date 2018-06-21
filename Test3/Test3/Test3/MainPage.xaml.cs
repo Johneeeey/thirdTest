@@ -8,6 +8,10 @@ using Xamarin.Forms.Xaml;
 
 namespace Test3{
 	public partial class MainPage : ContentPage{
+        //Label label; //перменная для обработки DatePicker`a
+        //Label header;//Переменные для
+        // Picker pickeR;//обработки picker`a  
+        Label actionLabel;//для всплывающего окна
         public const string someText = "Hello";
 		public MainPage(){
 
@@ -51,17 +55,85 @@ namespace Test3{
             this.Content = stackLayout;*/
 
             InitializeComponent();
+
+            /*всплыввающее окно*/
+            /*Button alertButton = new Button
+            {
+                Text = "Alert",
+                VerticalOptions = LayoutOptions.Start,
+                HorizontalOptions = LayoutOptions.Center
+            };
+            alertButton.Clicked += AlertButton_Clicked;
+
+            Content = alertButton;*/
+
+            /*Всплывающее окно с выбором ряда действий*/
+            /*Button alertButton = new Button { Text = "Alert" };
+            alertButton.Clicked += AlertButton_Clicked;
+            actionLabel = new Label();//что это?
+            Content = new StackLayout { Children = { alertButton, actionLabel } };//что это?*/
         }
 
+        /*обработка DatePicker`a*/
+        /*private void datePicker_DateSelected(object sender, DateChangedEventArgs e)
+        {
+            if (label != null)
+                label.Text = "Вы выбрали " + e.NewDate.ToString("dd/MM/yyyy");
+        }/*
+
         /*Обработка нажатия*/
-        private void Button_Click(){
+
+        /*Обработка нажатия на кнопку*/
+        /*private void Button_Click(){
             button1.Text = "Нажато!!!";
             photo.Source = "https://news.fergananews.com/photos/2012/10/bars.jpg";
-            firstCell.Text = "Shut";
-            secondCell.Text = "the";
-            thirdCell.Text = "fuck";
-            fourthCell.Text = "UP!";
-        }
+        }*/
+
+        /*Обработка Picker`a (ошибка необработаннго исключения)*/
+        /* void picker_SelectedIndexChanged(object sender, EventArgs e){
+             header.Text = "Вы выбрали: " + pickeR.Items[pickeR.SelectedIndex];
+         }*/
+
+        /*Обработка степпера*/
+        /*private void OnStepperValueChanged(object sender, ValueChangedEventArgs e){
+            if (header != null)
+                header.Text = String.Format("Выбрано: {0:F1}", e.NewValue);
+        }*/
+
+        /*Обработка слайдера*/
+        /*void OnValueChanged(object sender, ValueChangedEventArgs e){
+            if (header != null)
+                header.Text = String.Format("Выбрано: {0:F1}", e.NewValue);
+        }*/
+
+        /*обработка переключателя*/
+        /*private void switcher_Toggled(object sender, ToggledEventArgs e){
+            label.Text = String.Format("Значение {0}", e.Value);
+        }*/
+
+        /*Обработка webViewButtom(Не работает)*/
+        /*void button_Clicked(object sender, EventArgs e){
+            //webView.Source = new UrlWebViewSource { Url = urlEntry.Text };
+            // или так
+             webView.Source = urlEntry.Text;
+        }*/
+
+        /*Обработчик для всплывающего окна Display Alert*/
+        /*private void AlertButton_Clicked(object sender, EventArgs e){
+            DisplayAlert("Уведомление", "Пришло новое сообщение", "ОK");
+        }*/
+
+        /*Предоставление выбора при всплюывающем окне*/
+        /*private async void AlertButton_Clicked(object sender, EventArgs e){
+            bool result = await DisplayAlert("Подтвердить действие", "Вы хотите удалить элемент?", "Да", "Нет");
+            await DisplayAlert("Уведомление", "Вы выбрали: " + (result ? "Удалить" : "Отменить"), "OK");
+        }*/
+
+        /*Всплывающее окно с выбором ряда действий*/
+        /*private async void AlertButton_Clicked(object sender, EventArgs e){
+            var action = await DisplayActionSheet("Поделиться", "Отмена", "Удалить", "Вконтакте", "Твиттер", "Фейсбук");
+            actionLabel.Text = action;
+        }*/
     }
 
     /*КЛасс для установки цвета*/

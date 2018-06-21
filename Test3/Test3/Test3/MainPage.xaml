@@ -9,11 +9,11 @@
             <!-- Place new controls here -->
 
             <!--Стек элементов-->
-            <StackLayout>
+            <!--<StackLayout>
                 <Label Text="Первая метка" FontSize="Medium" TextColor="Red"/>
                 <Label Text="Вторая метка" FontSize="Medium" TextColor="Green"/>
                 <Label Text="Третья метка" FontSize="Medium" TextColor="Blue"/>
-        </StackLayout>
+            </StackLayout>
         <Label Text="Сосать, уроды, сосать!" HorizontalOptions="Center" VerticalOptions="Center">
                 <Label.Style>
                     <Style TargetType="Label">
@@ -27,8 +27,9 @@
                     HorizontalOptions="Center"
                     HeightRequest="300"
                     WidthRequest="300"/>
+            -->
             <!--Таблица-->
-            <Grid>
+            <!--<Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition />
                     <RowDefinition />
@@ -38,14 +39,12 @@
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
 
-                <Label x:Name="firstCell" Text="{x:Static local:MainPage.someText}" Grid.Row="0" TextColor="Red" BackgroundColor="Silver" />
-                <Label x:Name="secondCell" Text="World!" Grid.Column="1" TextColor="Yellow" BackgroundColor="Red"/>
-                <Label x:Name="thirdCell" Text="Nice to " Grid.Row="1" Grid.Column="0"/>
-                <Label x:Name="fourthCell" Text="meet you!" Grid.Row="1" Grid.Column="1"/>
-            </Grid>
-
+                <BoxView Color="Red" Grid.Row="0" Grid.Column="0"/>
+                <BoxView Color="Blue" Grid.Row="0" Grid.Column="1"/>
+                <BoxView Color="Yellow" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"/>
+            </Grid>-->
             <!--список-->
-            <ListView>
+            <!--<ListView>
                 <ListView.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                         <x:String>Никита</x:String>
@@ -60,9 +59,8 @@
                         <Setter Property="BackgroundColor" Value="White"/>
                     </Style>
                 </ListView.Style>
-            </ListView>
-
-            <Image Source="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dd8dc063650f788c684d46ed3ea44ea25aeb444_full.jpg"
+            </ListView>-->
+            <!--<Image Source="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dd8dc063650f788c684d46ed3ea44ea25aeb444_full.jpg"
                     VerticalOptions="Center"
                     HorizontalOptions="Center"
                     HeightRequest="300"
@@ -73,18 +71,16 @@
                     HorizontalOptions="Center"
                     HeightRequest="300"
                     WidthRequest="300"/>
+            -->
+            <!--<Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" TextColor="{local:color Alpha=255, Red=0, Green=89, Blue=25}" BackgroundColor="{local:color Alpha=255, Red=128, Green=203, Blue=196}"/>-->
 
-            <Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" TextColor="{local:color Alpha=255, Red=0, Green=89, Blue=25}" BackgroundColor="{local:color Alpha=255, Red=128, Green=203, Blue=196}"/>
-
-            <Button Text="olololo"/>
-            <Button Text="olololo"/>
-
-            <AbsoluteLayout>
+           <!-- <AbsoluteLayout>
                 <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="70, 50, 150, 60" />
                 <Label Text="Основное содержание текста" FontSize="Medium" AbsoluteLayout.LayoutBounds="30, 110, AutoSize, AutoSize" />
-            </AbsoluteLayout>
+            </AbsoluteLayout>-->
 
-            <RelativeLayout>
+            <!--Вложенные элементы-->
+            <!--<RelativeLayout>
                 <BoxView Color="Red" RelativeLayout.XConstraint = "0" WidthRequest="100" HeightRequest="100" />
 
                 <BoxView Color="Green" WidthRequest="100" HeightRequest="100"
@@ -99,7 +95,96 @@
               RelativeLayout.YConstraint = "{ConstraintExpression Type=RelativeToParent, 
               Property=Height, Factor=1, Constant=-100}"
             RelativeLayout.WidthConstraint = "150" RelativeLayout.HeightConstraint = "100"/>
-            </RelativeLayout>
+            </RelativeLayout>-->
+            <!--Цветные блоки с кнопкой-->
+            <!--<StackLayout Padding="60" BackgroundColor="Gray">
+                <BoxView Color="Blue" HeightRequest="100" />
+                <BoxView Color="Red"  HeightRequest="100" />
+                <BoxView Color="Green"  HeightRequest="100" />
+                <BoxView Color="Yellow"  HeightRequest="100" />
+                <Button Text="Кнопка"/>
+            </StackLayout>-->
+            <!--Поле ввода-->
+            <!--<StackLayout>
+                <Entry x:Name="login" Placeholder="Login"/>
+                <Entry x:Name="password" Placeholder="Password" IsPassword="True"/>
+                <Editor x:Name="editor" HeightRequest="100" BackgroundColor="Pink" />
+            </StackLayout>-->
+            <!--Контейнер Flame-->
+            <!--<Frame OutlineColor="Red">
+                <StackLayout>
+                    <BoxView Color="Blue" HeightRequest="100" />
+                    <BoxView Color="Red"  HeightRequest="100" />
+                    <BoxView Color="Green"  HeightRequest="100" />
+                    <BoxView Color="Yellow"  HeightRequest="100" />
+                    <BoxView Color="Blue" HeightRequest="100" />
+                    <BoxView Color="Red"  HeightRequest="100" />
+                    <BoxView Color="Green"  HeightRequest="100" />
+                    <BoxView Color="Yellow"  HeightRequest="100" />
+                </StackLayout>
+            </Frame>-->
+            <!--Картинка из файлов проекта-->
+            <!--<Image Source="picture.jpg"/>-->
+            <!--DatePicker-->
+            <!--<DatePicker Format="D" DateSelected="datePicker_DateSelected">
+                <DatePicker.MinimumDate>1/01/2000</DatePicker.MinimumDate>
+                <DatePicker.MaximumDate>12/31/2100</DatePicker.MaximumDate>
+            </DatePicker>-->
+            <!--TimePicker-->
+            <!--<TimePicker>
+                
+            </TimePicker>-->
+            <!--Выпадащий список Picker(не работает)-->
+            <!--<Picker x:Name="picker" SelectedIndexChanged="picker_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>C#</x:String>
+                    <x:String>C/C++</x:String>
+                    <x:String>JavaScript</x:String>
+                    <x:String>PHP</x:String>
+                </Picker.Items>
+            </Picker>-->
+            <!--Степпер-->
+            <!--<StackLayout>
+                <Label x:Name="header" Text="Stepper" FontSize="Large" HorizontalOptions="Center"/>
+                <Stepper Minimum="0" Maximum="10" Increment="0,1" ValueChanged="OnStepperValueChanged" HorizontalOptions="Center" Margin="100"/>
+            </StackLayout>-->
+            <!--Слайдер-->
+            <!--<StackLayout>
+                <Label x:Name="header" Text="Slider" FontSize="Large" />
+                <Slider Minimum="0" Maximum="50" Value="25" ValueChanged="OnValueChanged" />
+            </StackLayout>-->
+            <!--переключатель switch-->
+            <!--<StackLayout>
+                <Label Text="Переключатель" FontSize="Large" HorizontalOptions="Center" />
+                <Switch IsToggled="False" VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="Center" Toggled= "switcher_Toggled" />
+                <Label x:Name="label" FontSize="Large"  
+		            HorizontalOptions = "Center" VerticalOptions = "CenterAndExpand" />
+            </StackLayout>-->
+            <!--TableView-->
+            <!--<TableView>
+                <TableView.Root>
+                    <TableRoot>
+                        <TableSection Title="Персональные данные">
+                            <EntryCell Label="Логин" Keyboard="Default" Placeholder="Введите логин" />
+                            <SwitchCell Text="Сохранить" />
+                        </TableSection>
+                        <TableSection Title="Контакты">
+                            <EntryCell Label="Телефон" Keyboard="Telephone" Placeholder="номер телефона" />
+                            <EntryCell Label="Email" Keyboard="Email" Placeholder="Введите email" />
+                        </TableSection>
+                    </TableRoot>
+                </TableView.Root>
+            </TableView>-->
+            <!--WebView-->
+            <!--<StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Go" Clicked="button_Clicked" />
+                    <Entry x:Name="urlEntry" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+                <WebView x:Name="webView" Source="http://blog.xamarin.com" VerticalOptions="FillAndExpand" />
+            </StackLayout>-->
+            
         </StackLayout>
     </ScrollView>
 

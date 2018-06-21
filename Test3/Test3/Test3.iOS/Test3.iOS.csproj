@@ -156,4 +156,7 @@
       <Name>Test3</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\300x300.jpg" />
+  </ItemGroup>
 </Project>

@@ -2090,6 +2090,9 @@ namespace Test3.Droid
 		public partial class Drawable
 		{
 			
+			// aapt resource value: 0x7F010002
+			public const int 300x300 = 2130771970;
+			
 			// aapt resource value: 0x7F090001
 			public const int abc_ab_share_pack_mtrl_alpha = 2131296257;
 			
@@ -2999,8 +3002,8 @@ namespace Test3.Droid
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
 			
-			// aapt resource value: 0x7F010002
-			public const int сеня = 2130771970;
+			// aapt resource value: 0x7F010003
+			public const int сеня = 2130771971;
 			
 			static Drawable()
 			{
