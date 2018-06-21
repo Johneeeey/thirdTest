@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Test3"
+             x:Class="Test3.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+
+            <!--Стек элементов-->
+            <StackLayout>
+                <Label Text="Первая метка" FontSize="Medium" TextColor="Red"/>
+                <Label Text="Вторая метка" FontSize="Medium" TextColor="Green"/>
+                <Label Text="Третья метка" FontSize="Medium" TextColor="Blue"/>
+        </StackLayout>
+        <Label Text="Сосать, уроды, сосать!" HorizontalOptions="Center" VerticalOptions="Center">
+                <Label.Style>
+                    <Style TargetType="Label">
+                        <Setter Property="BackgroundColor" Value="Blue"/>
+                        <Setter Property="TextColor" Value="Red"/>
+                    </Style>
+                </Label.Style>
+            </Label>
+            <Image x:Name="photo" Source="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dd8dc063650f788c684d46ed3ea44ea25aeb444_full.jpg"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    HeightRequest="300"
+                    WidthRequest="300"/>
+            <!--Таблица-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="firstCell" Text="{x:Static local:MainPage.someText}" Grid.Row="0" TextColor="Red" BackgroundColor="Silver" />
+                <Label x:Name="secondCell" Text="World!" Grid.Column="1" TextColor="Yellow" BackgroundColor="Red"/>
+                <Label x:Name="thirdCell" Text="Nice to " Grid.Row="1" Grid.Column="0"/>
+                <Label x:Name="fourthCell" Text="meet you!" Grid.Row="1" Grid.Column="1"/>
+            </Grid>
+
+            <!--список-->
+            <ListView>
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Никита</x:String>
+                        <x:String>Максим</x:String>
+                        <x:String>Гоша</x:String>
+                        <x:String>Влад</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+                <ListView.Style>
+                    <Style TargetType="ListView">
+                        <Setter Property="SeparatorColor" Value="Red"/>
+                        <Setter Property="BackgroundColor" Value="White"/>
+                    </Style>
+                </ListView.Style>
+            </ListView>
+
+            <Image Source="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dd8dc063650f788c684d46ed3ea44ea25aeb444_full.jpg"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    HeightRequest="300"
+                    WidthRequest="300"/>
+
+            <Image Source="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dd8dc063650f788c684d46ed3ea44ea25aeb444_full.jpg"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    HeightRequest="300"
+                    WidthRequest="300"/>
+
+            <Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" TextColor="{local:color Alpha=255, Red=0, Green=89, Blue=25}" BackgroundColor="{local:color Alpha=255, Red=128, Green=203, Blue=196}"/>
+
+            <Button Text="olololo"/>
+
+            <AbsoluteLayout>
+                <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="70, 50, 150, 60" />
+                <Label Text="Основное содержание текста" FontSize="Medium" AbsoluteLayout.LayoutBounds="30, 110, AutoSize, AutoSize" />
+            </AbsoluteLayout>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

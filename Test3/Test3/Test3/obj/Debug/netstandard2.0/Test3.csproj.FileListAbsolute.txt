@@ -1,0 +1,45 @@
+D:\XamarinTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.deps.json
+D:\XamarinTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csproj.CoreCompileInputs.cache
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfoInputs.cache
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfo.cs
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csprojAssemblyReference.cache
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.deps.json
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.dll
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.pdb
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csprojAssemblyReference.cache
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csproj.CoreCompileInputs.cache
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfoInputs.cache
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfo.cs
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.dll
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.deps.json
+D:\XamarinTest\secondTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\secondTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csprojAssemblyReference.cache
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csproj.CoreCompileInputs.cache
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfoInputs.cache
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfo.cs
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\secondTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.deps.json
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csproj.CoreCompileInputs.cache
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfoInputs.cache
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfo.cs
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csprojAssemblyReference.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.deps.json
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\bin\Debug\netstandard2.0\Test3.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csprojAssemblyReference.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.csproj.CoreCompileInputs.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfoInputs.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.AssemblyInfo.cs
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3\obj\Debug\netstandard2.0\Test3.pdb

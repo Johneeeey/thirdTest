@@ -1,0 +1,403 @@
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3.apk
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3-Signed.apk
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Test3.dll
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Test3.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csprojAssemblyReference.cache
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CoreCompileInputs.cache
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CopyComplete
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.dll
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\bin\com.companyname.Test3.apk
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\tabbar.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\toolbar.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\values\styles.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\values\colors.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\R.cs.flag
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\R.txt
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\uploadflags.txt
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Android.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\mscorlib.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.Linq.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Net.Http.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Security.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Data.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Numerics.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Transactions.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\System.Web.Services.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Data.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Data.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csprojAssemblyReference.cache
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.dll
+C:\Users\KV_HT_003\Source\Repos\secondTest3\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3.apk
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3-Signed.apk
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Test3.dll
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Test3.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csprojAssemblyReference.cache
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CoreCompileInputs.cache
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CopyComplete
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.dll
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\bin\com.companyname.Test3.apk
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\tabbar.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\toolbar.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\values\styles.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\values\colors.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\R.cs.flag
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\R.txt
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\uploadflags.txt
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Security.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\mscorlib.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Data.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Net.Http.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Numerics.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Transactions.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Web.Services.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.Linq.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Data.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Data.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\XamarinTest\secondTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csprojAssemblyReference.cache
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.dll
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3.apk
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3-Signed.apk
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Test3.dll
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CoreCompileInputs.cache
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CopyComplete
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\bin\com.companyname.Test3.apk
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\tabbar.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\layout\toolbar.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\values\styles.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\values\colors.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\R.cs.flag
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\R.txt
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\uploadflags.txt
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Android.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Mono.Security.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\mscorlib.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Data.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Net.Http.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Numerics.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Transactions.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Web.Services.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.Linq.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\System.Xml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Data.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Data.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\XamarinTest\thirdTest\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csprojAssemblyReference.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3.apk
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\com.companyname.Test3-Signed.apk
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CoreCompileInputs.cache
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\Test3.Android.csproj.CopyComplete
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\bin\com.companyname.Test3.apk
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\layout\tabbar.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\layout\toolbar.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\values\styles.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\values\colors.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\R.cs.flag
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\R.txt
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\uploadflags.txt
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Mono.Android.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Mono.Security.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\mscorlib.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Data.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.IO.Compression.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Net.Http.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Numerics.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Transactions.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Web.Services.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Xml.Linq.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\System.Xml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Data.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Test3.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Data.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\bin\Debug\Test3.Android.dll
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Test3.Android.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\XamarinTest\Новая папка\Test3\Test3\Test3.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
