@@ -3,11 +3,23 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Test3"
              x:Class="Test3.MainPage">
+    <!--Ресурс-->
+    <!--<ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="textColor">#2ECC2E</Color>
+            <Color x:Key="backColor">#000000</Color>
+            <x:Double x:Key="fontSize">24</x:Double>
+        </ResourceDictionary>
+    </ContentPage.Resources>-->       
 
     <ScrollView>
         <StackLayout>
-            <!-- Place new controls here -->
-
+            <!--Применение ресурса-->
+            <!--<Button Text="Кнопка" TextColor="{StaticResource Key=textColor}"
+                    BackgroundColor="{StaticResource Key=backColor}"
+                    FontSize="{StaticResource Key=fontSize}"
+                    Clicked="click"
+                    x:Name="clickButton"/>-->
             <!--Стек элементов-->
             <!--<StackLayout>
                 <Label Text="Первая метка" FontSize="Medium" TextColor="Red"/>
@@ -183,8 +195,15 @@
                     <Entry x:Name="urlEntry" HorizontalOptions="FillAndExpand" />
                 </StackLayout>
                 <WebView x:Name="webView" Source="http://blog.xamarin.com" VerticalOptions="FillAndExpand" />
-            </StackLayout>-->
-            
+            </StackLayout>--> 
+            <!--Привязка-->
+            <Label x:Name="label"
+                   BindingContext="{x:Reference Name=entryBox}"
+                   Text="{Binding Path=Text}"
+                   FontSize="Large"/>
+            <Entry x:Name="entryBox"/>
+            <!--Объект Binding-->
+            <Label x:Name="label1" FontSize="Large" Text="{Binding Source={x:Reference Name=entryBox}, Path=Text}"/>
         </StackLayout>
     </ScrollView>
 

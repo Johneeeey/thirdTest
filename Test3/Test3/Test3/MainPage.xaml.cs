@@ -134,6 +134,12 @@ namespace Test3{
             var action = await DisplayActionSheet("Поделиться", "Отмена", "Удалить", "Вконтакте", "Твиттер", "Фейсбук");
             actionLabel.Text = action;
         }*/
+        
+        /*Обработка нажатия кнопки с ресурсом*/
+        /*private void click(object sender, EventArgs e){
+            clickButton.BackgroundColor = Color.Gray;
+            clickButton.Text = "Нажато";
+        }*/
     }
 
     /*КЛасс для установки цвета*/
