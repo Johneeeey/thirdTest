@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:Test3"
+             xmlns:local="clr-namespace:Test3;assembly=Test3"
              x:Class="Test3.MainPage">
     <!--Ресурс-->
     <!--<ContentPage.Resources>
@@ -10,7 +10,33 @@
             <Color x:Key="backColor">#000000</Color>
             <x:Double x:Key="fontSize">24</x:Double>
         </ResourceDictionary>
-    </ContentPage.Resources>-->       
+    </ContentPage.Resources>-->      
+    
+    <!--Ресурс для конвертера DatePicker`a-->
+    <!--<ContentPage.Resources>
+        <ResourceDictionary>
+            <local:DateTimeToLocalDateConverter x:Key="dateConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>-->
+    
+    <!--Ресурс для конвертера вводимого текста-->
+    <!--<ContentPage.Resources>
+        <ResourceDictionary>
+            <local:StringToColorConverter x:Key="colorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>-->
+    
+    <!--РЕсурс для ListView-->
+    <!--<ContentPage.Resources>
+        <ResourceDictionary>
+            <x:Array x:Key="phones" Type="{x:Type x:String}">
+                <x:String>iPhone 7</x:String>
+                <x:String>HP Elite z3</x:String>
+                <x:String>Huawei P10</x:String>
+                <x:String>Xiaomi Mi6</x:String>
+            </x:Array>
+        </ResourceDictionary>
+    </ContentPage.Resources>-->
 
     <ScrollView>
         <StackLayout>
@@ -86,7 +112,7 @@
             -->
             <!--<Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" TextColor="{local:color Alpha=255, Red=0, Green=89, Blue=25}" BackgroundColor="{local:color Alpha=255, Red=128, Green=203, Blue=196}"/>-->
 
-           <!-- <AbsoluteLayout>
+            <!-- <AbsoluteLayout>
                 <Label Text="Заголовок" FontSize="Large" AbsoluteLayout.LayoutBounds="70, 50, 150, 60" />
                 <Label Text="Основное содержание текста" FontSize="Medium" AbsoluteLayout.LayoutBounds="30, 110, AutoSize, AutoSize" />
             </AbsoluteLayout>-->
@@ -108,6 +134,7 @@
               Property=Height, Factor=1, Constant=-100}"
             RelativeLayout.WidthConstraint = "150" RelativeLayout.HeightConstraint = "100"/>
             </RelativeLayout>-->
+
             <!--Цветные блоки с кнопкой-->
             <!--<StackLayout Padding="60" BackgroundColor="Gray">
                 <BoxView Color="Blue" HeightRequest="100" />
@@ -116,12 +143,14 @@
                 <BoxView Color="Yellow"  HeightRequest="100" />
                 <Button Text="Кнопка"/>
             </StackLayout>-->
+
             <!--Поле ввода-->
             <!--<StackLayout>
                 <Entry x:Name="login" Placeholder="Login"/>
                 <Entry x:Name="password" Placeholder="Password" IsPassword="True"/>
                 <Editor x:Name="editor" HeightRequest="100" BackgroundColor="Pink" />
             </StackLayout>-->
+
             <!--Контейнер Flame-->
             <!--<Frame OutlineColor="Red">
                 <StackLayout>
@@ -135,6 +164,7 @@
                     <BoxView Color="Yellow"  HeightRequest="100" />
                 </StackLayout>
             </Frame>-->
+
             <!--Картинка из файлов проекта-->
             <!--<Image Source="picture.jpg"/>-->
             <!--DatePicker-->
@@ -142,10 +172,12 @@
                 <DatePicker.MinimumDate>1/01/2000</DatePicker.MinimumDate>
                 <DatePicker.MaximumDate>12/31/2100</DatePicker.MaximumDate>
             </DatePicker>-->
+
             <!--TimePicker-->
             <!--<TimePicker>
                 
             </TimePicker>-->
+
             <!--Выпадащий список Picker(не работает)-->
             <!--<Picker x:Name="picker" SelectedIndexChanged="picker_SelectedIndexChanged">
                 <Picker.Items>
@@ -155,16 +187,19 @@
                     <x:String>PHP</x:String>
                 </Picker.Items>
             </Picker>-->
+
             <!--Степпер-->
             <!--<StackLayout>
                 <Label x:Name="header" Text="Stepper" FontSize="Large" HorizontalOptions="Center"/>
                 <Stepper Minimum="0" Maximum="10" Increment="0,1" ValueChanged="OnStepperValueChanged" HorizontalOptions="Center" Margin="100"/>
             </StackLayout>-->
+
             <!--Слайдер-->
             <!--<StackLayout>
                 <Label x:Name="header" Text="Slider" FontSize="Large" />
                 <Slider Minimum="0" Maximum="50" Value="25" ValueChanged="OnValueChanged" />
             </StackLayout>-->
+
             <!--переключатель switch-->
             <!--<StackLayout>
                 <Label Text="Переключатель" FontSize="Large" HorizontalOptions="Center" />
@@ -173,6 +208,7 @@
                 <Label x:Name="label" FontSize="Large"  
 		            HorizontalOptions = "Center" VerticalOptions = "CenterAndExpand" />
             </StackLayout>-->
+
             <!--TableView-->
             <!--<TableView>
                 <TableView.Root>
@@ -188,6 +224,7 @@
                     </TableRoot>
                 </TableView.Root>
             </TableView>-->
+
             <!--WebView-->
             <!--<StackLayout>
                 <StackLayout Orientation="Horizontal">
@@ -195,15 +232,87 @@
                     <Entry x:Name="urlEntry" HorizontalOptions="FillAndExpand" />
                 </StackLayout>
                 <WebView x:Name="webView" Source="http://blog.xamarin.com" VerticalOptions="FillAndExpand" />
-            </StackLayout>--> 
+            </StackLayout>-->
+
             <!--Привязка-->
-            <Label x:Name="label"
+            <!--<Label x:Name="label"
                    BindingContext="{x:Reference Name=entryBox}"
                    Text="{Binding Path=Text}"
                    FontSize="Large"/>
-            <Entry x:Name="entryBox"/>
+            <Entry x:Name="entryBox"/>-->
+
             <!--Объект Binding-->
-            <Label x:Name="label1" FontSize="Large" Text="{Binding Source={x:Reference Name=entryBox}, Path=Text}"/>
+            <!--<Label x:Name="label1" FontSize="Large" Text="{Binding Source={x:Reference Name=entryBox}, Path=Text}"/>-->
+
+            <!--Применение конвертера-->
+            <!--<Label Text="{Binding Source={x:Reference Name=datePicker},  Path=Date}"/>
+            <Label Text="{Binding Source={x:Reference Name=datePicker},  
+                        Path=Date, 
+                        Converter={StaticResource dateConverter}}" />
+            <DatePicker x:Name="datePicker" Format="D"  />-->
+
+            <!--Применение ковертера к вводимому тексту-->
+            <!--<Entry x:Name="entry1" Text="Red" />
+            <Label x:Name="label1" Text="{Binding Source={x:Reference Name=entry1}, Path=Text}"
+                TextColor="{Binding Source={x:Reference Name=entry1}, 
+                                Converter={StaticResource colorConverter},  
+                                Path=Text}" />-->
+
+            <!--ListView с применением ресурса-->
+            <!--<Label Text="{Binding Source={x:Reference Name=phonesList}, Path=SelectedItem}"
+               HorizontalOptions="Center" FontSize="Large" />
+            <ListView x:Name="phonesList" ItemsSource="{StaticResource Key=phones}" />-->
+            
+            <!--ListView с привязкой к массиву из кода C#-->
+            <!--<Label Text="Список моделей" HorizontalOptions="Center" FontSize="Large" />
+            <ListView x:Name="phones" ItemsSource="{Binding Phones}" />-->
+            
+            <!--список для обработки выделения элемента(ItemSelected, ItemTapped)-->
+            <!--<Label x:Name="selected" HorizontalOptions="Center" FontSize="Large" />
+            <ListView x:Name="phonesList" ItemTapped="PhonesList_ItemTapped" />-->
+            
+            <!--DataTemplate-->
+            <!--<Label Text="{Binding Source={x:Reference Name=phonesList}, Path=SelectedItem.Title}"
+            FontSize="Large" />
+            <ListView x:Name="phonesList"
+              HasUnevenRows="True"
+              ItemsSource="{Binding Phones}"
+              ItemTapped="OnItemTapped">
+                <ListView.ItemTemplate>
+                    Визуальный шаблон DataTemplate
+                    <DataTemplate>
+                        ViewCell
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout>
+                                    <Label Text="{Binding Company}" FontSize="18" />
+                                    <Label Text="{Binding Title}" />
+                                    <Label Text="{Binding Price}" /><Image Source="picture.jpg"/>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                        TextCell
+                        TextCell
+                            Text="{Binding Title}"
+                            Detail="{Binding Company, StringFormat='Флагман от компании {0}'}"
+                            TextColor="Red"
+                            DetailColor="Green
+                        ImageCell
+                        <ImageCell
+                        ImageSource="{Binding ImagePath}"
+                        Text="{Binding Title}"
+                        Detail="{Binding Company, StringFormat='Флагман от компании {0}'}"
+                        TextColor="Red"
+                        DetailColor="Green"
+                        />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            Кнопки для добавления и удаления элементов списка
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" >
+                <Button Clicked="AddItem" Text="Добавить" />
+                <Button Clicked="RemoveItem" Text="Удалить" />-->
+            </StackLayout>
         </StackLayout>
     </ScrollView>
 
