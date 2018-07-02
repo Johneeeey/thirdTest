@@ -4,5 +4,6 @@
     <SelectedDevice>HUAWEI CUN-L21</SelectedDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
     <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

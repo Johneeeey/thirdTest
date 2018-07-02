@@ -95,7 +95,23 @@ namespace Test3{
             actionLabel = new Label();//что это?
             Content = new StackLayout { Children = { alertButton, actionLabel } };//что это?*/
 
+            /*НАВИГАЦИЯ*/
+            /*Title = "Main Page";
+            Button toCommonPageBtn = new Button{
+                Text = "На обычную страницу",
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand
+            };
+            toCommonPageBtn.Clicked += ToCommonPage;
 
+            Button toModalPageBtn = new Button{
+                Text = "На модальную страницу",
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand
+            };
+            toModalPageBtn.Clicked += ToModalPage;
+
+            Content = new StackLayout { Children = { toCommonPageBtn, toModalPageBtn } };*/
         }
 
         /*обработка DatePicker`a*/
@@ -187,9 +203,9 @@ namespace Test3{
         }*/
 
         // добавление объекта
-       /* private void AddItem(object sender, EventArgs e){
-            Phones.Add(new Phone { Title = "Galaxy S8", Company = "Samsung", Price = 48000 });
-        }*/
+        /* private void AddItem(object sender, EventArgs e){
+             Phones.Add(new Phone { Title = "Galaxy S8", Company = "Samsung", Price = 48000 });
+         }*/
         // удаление выделенного объекта
         /*private void RemoveItem(object sender, EventArgs e){
             Phone phone = phonesList.SelectedItem as Phone;
@@ -198,6 +214,18 @@ namespace Test3{
                 phonesList.SelectedItem = null;
             }
         }*/
+
+        /*ОБРАБОТКА НАЖАТИЙ НАВИГАЦИИ*/
+        /*private async void ToModalPage(object sender, EventArgs e){
+            await Navigation.PushModalAsync(new ModalPage());
+        }
+        private async void ToCommonPage(object sender, EventArgs e){
+            await Navigation.PushAsync(new CommonPage());
+        }*/
+
+        private async void forwardCLick(object sender, EventArgs e){
+            await Navigation.PushAsync(new Page1());
+        }
     }
 
     /*КЛасс для установки цвета*/

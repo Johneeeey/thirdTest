@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Test3;assembly=Test3"
-             x:Class="Test3.MainPage">
+             x:Class="Test3.MainPage"
+             Title="MainPage">
     <!--Ресурс-->
     <!--<ContentPage.Resources>
         <ResourceDictionary>
@@ -311,8 +312,11 @@
             Кнопки для добавления и удаления элементов списка
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center" >
                 <Button Clicked="AddItem" Text="Добавить" />
-                <Button Clicked="RemoveItem" Text="Удалить" />-->
-            </StackLayout>
+                <Button Clicked="RemoveItem" Text="Удалить" />
+            </StackLayout>-->
+            
+            <!--Кнопка для навигации-->
+            <Button Text="Вперед" Clicked="forwardCLick"/>
         </StackLayout>
     </ScrollView>
 
