@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Test3;assembly=Test3"
              x:Class="Test3.MainPage"
-             Title="MainPage">
+             Title="MainPage"
     <!--Ресурс-->
     <!--<ContentPage.Resources>
         <ResourceDictionary>
@@ -41,6 +41,11 @@
 
     <ScrollView>
         <StackLayout>
+            <ru.yandex.yandexmapkit.MapView
+                android:id="@+id/map"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:apiKey="6dbf98e5-c52f-462d-9cca-b55c12e0abe3" /> 
             <!--Применение ресурса-->
             <!--<Button Text="Кнопка" TextColor="{StaticResource Key=textColor}"
                     BackgroundColor="{StaticResource Key=backColor}"
@@ -316,7 +321,29 @@
             </StackLayout>-->
             
             <!--Кнопка для навигации-->
-            <Button Text="Вперед" Clicked="forwardCLick"/>
+            <!--<Button Text="Вперед" Clicked="forwardCLick"/>-->
+            
+            <!--Окно регистрации(работа с привязкой)-->
+            <!--<Label Text="Окно регистрации" HorizontalOptions="Center" FontSize="Large" TextColor="Green" FontAttributes="Bold"/>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Padding="0,100,0,0">
+                <Label Text="Login: " FontSize="Medium" TextColor="Gray"/>
+                <Entry x:Name="entryBox"/>
+                <Label Text="Password" FontSize="Medium" TextColor="Gray"/>
+                <Entry x:Name="password" IsPassword="True"/>
+                <Label Text="Confirm password" FontSize="Medium" TextColor="Gray"/>
+                <Entry x:Name="ConfirmPassword" IsPassword="True"/>
+                <Label x:Name="resultPasswordLabel"/>
+                <Button Text="Зарегистрироваться" Clicked="RegisterButton"/>
+            </StackLayout>-->
+            
+            <!--Поиграемся с MVVM-->
+            <!--<StackLayout>
+                <Label Text="{Binding Company}"/>
+                <Label Text="{Binding Model}"/>
+                <Label Text="{Binding Price}"/>
+                <Button Text="+" Command="{Binding Increase}"/>
+                <Button Text="-" Command="{Binding Decrease}"/>
+            </StackLayout>-->
         </StackLayout>
     </ScrollView>
 

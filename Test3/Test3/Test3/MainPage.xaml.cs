@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
+using System.ComponentModel;
+using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Collections.ObjectModel;
 
 namespace Test3{
 	public partial class MainPage : ContentPage{
-        Label label; //перменная для обработки DatePicker`a
+        //Label label; //перменная для обработки DatePicker`a
         //Label header;//Переменные для
         // Picker pickeR;//обработки picker`a  
         Label actionLabel;//для всплывающего окна
@@ -112,6 +114,13 @@ namespace Test3{
             toModalPageBtn.Clicked += ToModalPage;
 
             Content = new StackLayout { Children = { toCommonPageBtn, toModalPageBtn } };*/
+
+            /*MVVM*/
+            /*this.BindingContext = new phoneViewModel{
+                Company = "Sumsung",
+                Model = "S9",
+                Price = 52000
+            };*/
         }
 
         /*обработка DatePicker`a*/
@@ -223,9 +232,24 @@ namespace Test3{
             await Navigation.PushAsync(new CommonPage());
         }*/
 
-        private async void forwardCLick(object sender, EventArgs e){
+        /*private async void forwardCLick(object sender, EventArgs e){
             await Navigation.PushAsync(new Page1());
-        }
+        }*/
+
+        /*КНОПКА РЕГИСТРАЦИИ*/
+        /*private void RegisterButton(object sender, EventArgs e){
+            if(password.Text== ConfirmPassword.Text){
+                resultPasswordLabel.Text = "Пароли совпадают";
+                resultPasswordLabel.TextColor = Color.Green;
+            }
+            else{
+                resultPasswordLabel.Text = "Пароли не совпадают";
+                resultPasswordLabel.TextColor = Color.Red;
+            }
+        }*/
+
+        /*MVVM*/
+
     }
 
     /*КЛасс для установки цвета*/
@@ -282,5 +306,71 @@ namespace Test3{
         public string Company { get; set; }
         public int Price { get; set; }
         public string ImagePath { get; set; }
+    }*/
+
+    /*Классы для MVVM*/
+    /*public class Phone{
+        public string Company { get; set; }
+        public string Model { get; set; }
+        public int Price { get; set; }
+    }
+
+    public class phoneViewModel : INotifyPropertyChanged{
+        public event PropertyChangedEventHandler PropertyChanged;
+        private Phone phone;
+        public ICommand Increase { get; }
+        public ICommand Decrease { get; }
+
+        public phoneViewModel(){
+            phone = new Phone();
+            Increase = new Command(IncreasePrice);
+            Decrease = new Command(DecreasePrice);
+        }
+
+        public void IncreasePrice(){
+            if (phone != null){
+                Price += 100;
+            }
+        }
+
+        public void DecreasePrice(){
+            if (phone != null){
+                Price -= 100;
+            }
+        }
+
+        public string Company{
+            get { return phone.Company; }
+            set{
+                if (phone.Company != value){
+                    phone.Company = value;
+                    OnPropertyChanged("Company");
+                }
+            }
+        }
+        public string Model{
+            get { return phone.Model; }
+            set{
+                if(phone.Model != value){
+                    phone.Model = value;
+                    OnPropertyChanged("Model");
+                }
+            }
+        }
+        public int Price{
+            get { return phone.Price; }
+            set{
+                if (phone.Price != value){
+                    phone.Price = value;
+                    OnPropertyChanged("Price");
+                }
+            }
+        }
+
+        protected void OnPropertyChanged(string propName)
+        {
+            if (PropertyChanged != null)
+                PropertyChanged(this, new PropertyChangedEventArgs(propName));
+        }
     }*/
 }

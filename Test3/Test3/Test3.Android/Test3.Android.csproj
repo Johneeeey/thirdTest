@@ -61,6 +61,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="mapKit\.classpath" />
+    <None Include="mapKit\.project" />
+    <None Include="mapKit\bin\yandexmapkit-sample.apk" />
+    <None Include="mapKit\build.gradle" />
+    <None Include="mapKit\default.properties" />
+    <None Include="mapKit\gradlew" />
+    <None Include="mapKit\gradlew.bat" />
+    <None Include="mapKit\gradle\wrapper\gradle-wrapper.properties" />
+    <None Include="mapKit\project.properties" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
@@ -84,6 +93,8 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="mapKit\res\" />
+    <Folder Include="mapKit\src\" />
     <Folder Include="Resources\drawable-hdpi\" />
     <Folder Include="Resources\drawable-xhdpi\" />
     <Folder Include="Resources\drawable-xxhdpi\" />
@@ -97,6 +108,19 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\picture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\fon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\littleFon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mapKit\AndroidManifest.xml" />
+    <Content Include="mapKit\build.xml" />
+    <Content Include="mapKit\gradle\wrapper\gradle-wrapper.jar" />
+    <Content Include="mapKit\lint.xml" />
+    <Content Include="mapKit\proguard-project.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
